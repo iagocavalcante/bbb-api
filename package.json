@@ -1,0 +1,14 @@
+{
+  "name": "bbb-estalecas-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/hapi": "^19.1.1",
+    "axios": "^0.19.2",
+    "hapi": "^18.1.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
